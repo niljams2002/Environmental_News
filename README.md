@@ -24,3 +24,4 @@ This system provides advanced text search and analysis for environmental news da
 ## Evaluation
 - The system was tested on various search queries. A specific wildcard query achieved a precision of 0.921 and recall of 0.833, demonstrating high effectiveness.
 
+Note: Attached a PDF explaining certain features provided in the code
